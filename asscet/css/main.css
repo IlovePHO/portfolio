@@ -305,13 +305,13 @@ main {
     border-radius: 3rem;
     margin-bottom: 4rem;
 
-    /* position: relative;
+    position: relative;
     display: flex;
     flex-direction: column;
     overflow: hidden;
     scroll-behavior: smooth;
     flex-shrink: 0;
-    justify-content: center; */
+    justify-content: center;
 
     
 }
@@ -323,7 +323,7 @@ main {
 /* check-ban than */
 .self {
   
-    display: none;
+    display: flex;
    
 }
 
