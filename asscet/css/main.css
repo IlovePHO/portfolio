@@ -526,6 +526,9 @@ main {
 }
 
 /* kỹ năng của tôi  */
+.Education__footer{
+    display: flex;
+}
 
 .Education__footer-item {
     display: flex;
