@@ -323,7 +323,7 @@ main {
 /* check-ban than */
 .self {
   
-    display: flex;
+    display: none;
    
 }
 
